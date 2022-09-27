@@ -12,5 +12,6 @@
 <body>
 send
 resend
+내용추가합니다
 </body>
 </html>
